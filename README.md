@@ -30,7 +30,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
-![Databases ERD ](visualization_diagram\ERD_data_jobs_fact.png)
+![Databases ERD](visualization_diagram\ERD_data_jobs_fact.png)
 *ERD Diagram above is used for this analysis with the help of inner join*
 
 ### 1. Top Paying Data Analyst Jobs
@@ -246,3 +246,5 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
+[def]: visualization_diagram\ERD_data_jobs_fact.png
